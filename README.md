@@ -1,5 +1,7 @@
 # custom-newtab
 
+<img src="./src-git/Screenshot%20from%202023-02-20%2006-25-06.png">
+
 This project i was create for decorate newtab page in browser, by add-ons name <a href="https://github.com/methodgrab/firefox-custom-new-tab-page">_Custom New Tab Page_</a>.
 
 ## how to use it
@@ -12,4 +14,3 @@ This project i was create for decorate newtab page in browser, by add-ons name <
     <img src="./src-git/Screenshot%20from%202023-02-20%2006-40-24.png">
 
 3. Done! enjoy your new tab
-    <img src="./src-git/Screenshot%20from%202023-02-20%2006-25-06.png">
