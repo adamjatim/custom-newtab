@@ -1,0 +1,98 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    text-decoration: none;
+    list-style: none;
+    position: relative;
+    font-family: Poppins;
+    color: rgb(215, 215, 215);
+}
+
+body {
+    max-width: 100vw;
+    max-height: 100vh;
+    background-color: #252525;
+    position: relative;
+}
+
+.main {
+    max-width: 1000px;
+    min-height: 100px;
+    max-height: 500px;
+    margin: auto;
+    position: fixed;
+    display: flex;
+}
+
+.image {
+    margin: auto;
+    width: 400px;
+    height: 400px;
+}
+
+.image img {
+    width: 300px;
+    margin: auto;
+    position: absolute;
+    border: #cd8ed6 solid 3px;
+    border-radius: 4%;
+}
+
+.content {
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    flex-direction:column;
+}
+
+.greeting {
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+    margin-top: 50px;
+}
+
+.greeting p#time {
+    margin-top: 10px;
+    color: #cd8ed6;
+    font-size: 50px;
+}
+
+.greeting p#date {
+    margin-top: 8px;
+    color: #cecece;
+    font-size: 14px;
+}
+
+.shortcut {
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    display: flex;
+}
+
+ul {
+    text-align: center;
+    margin: auto ;
+    margin-top: 60px ;
+}
+
+ul > a {
+    font-size: 20px;
+    color: #cd8ed6;
+}
+
+ul > li > a {
+    font-size: 16px;
+    color: rgb(205, 205, 205);
+}
+
+ul > li > a:hover {
+    color: #cd8ed6;
+}
