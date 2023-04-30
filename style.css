@@ -56,6 +56,10 @@ body {
     justify-content: center;
     font-size: larger;
     margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    justify-content: space-between;
 }
 
 .greeting p#time {
@@ -80,7 +84,7 @@ body {
 ul {
     text-align: center;
     margin: auto ;
-    margin-top: 60px ;
+    margin-top: 40px ;
 }
 
 ul > a {
